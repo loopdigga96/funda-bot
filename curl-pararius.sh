@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 curl 'https://www.pararius.com/apartments/eindhoven/1000-2500' \
   -H 'authority: www.pararius.com' \

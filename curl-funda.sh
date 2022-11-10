@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 curl 'https://www.funda.nl/en/huur/eindhoven/1000-2500/sorteer-datum-af/' \
   -H 'authority: www.funda.nl' \
