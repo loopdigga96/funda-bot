@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-curl 'https://www.pararius.com/apartments/amsterdam/1000-2000' \
+curl 'https://www.pararius.com/apartments/eindhoven/1000-2500' \
   -H 'authority: www.pararius.com' \
   -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
   -H 'accept-language: en-US,en;q=0.9,ru;q=0.8,lt;q=0.7,nl;q=0.6,zh-CN;q=0.5,zh;q=0.4' \

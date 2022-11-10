@@ -3,9 +3,9 @@ const cheerio = require('cheerio');
 const {exec} = require('child_process');
 const TelegramBot = require('node-telegram-bot-api');
 
-const BOT_TOKEN = '...';
+const BOT_TOKEN = '5353489122:AAFWjcI3HvhulhD3acbA4cT71XcLbBbz42s';
 const bot = new TelegramBot(BOT_TOKEN, {polling: true});
-const CHAT_ID = '-1001526217427';
+const CHAT_ID = '-645938130';
 const EVERY_MIN = 3;
 
 const FUNDA_FILE = './last-funda.txt';
