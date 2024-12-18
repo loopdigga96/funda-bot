@@ -1,6 +1,6 @@
 #!/bin/bash
 
-curl 'https://www.funda.nl/en/huur/eindhoven/1000-2500/sorteer-datum-af/' \
+curl 'https://www.funda.nl/zoeken/koop?selected_area=%5B%22eindhoven,10km%22%5D&bedrooms=%223-%22&sort=%22date_down%22/' \
   -H 'authority: www.funda.nl' \
   -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
   -H 'accept-language: en-US,en;q=0.9,ru;q=0.8,lt;q=0.7,nl;q=0.6,zh-CN;q=0.5,zh;q=0.4' \
